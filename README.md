@@ -16,4 +16,9 @@ Packages: - numpy
           - tensorflow
           
 # Launch
-In order to run the programm you simply run the main.py file (provided in the 
+In order to run the programm you simply run the main.py file (provided in the folder) in your prefered IDE or in your Terminal.
+The program doesn´t need any specific requirements and yous should be able to run it easily on your PC / Laptop /...
+
+# Additional Information
+You can easily modify the neural network and change the layers or the amout of days based on which the nn starts it´s training in order to achieve more 
+accurate results. The nn is not optimized! So feel free to experiment with the data.
