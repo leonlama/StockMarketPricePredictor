@@ -12,7 +12,6 @@ you get from that program. It is for educational purpose only!
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
-import pandas_datareader as web
 import datetime as dt
 import pandas_datareader as pdr
 
