@@ -21,4 +21,5 @@ The program doesn´t need any specific requirements and yous should be able to r
 
 # Additional Information
 You can easily modify the neural network and change the layers or the amout of days based on which the nn starts it´s training in order to achieve more 
-accurate results. The nn is not optimized! So feel free to experiment with the data.
+accurate results. The nn is not optimized! So feel free to experiment with the data. In line 26 (company = …) you can specify the company for which the program should predict the stock market price.
+
