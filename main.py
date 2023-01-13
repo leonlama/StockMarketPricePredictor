@@ -28,7 +28,7 @@ company = '\^AAPL' #\^ because we have to escape the \^
 #start = dt.datetime(2012,1,1)
 #end = dt.datetime(2022,1,1)
 
-data = pdr.DataReader(company, data_source='yahoo', start='2017-01-01', end='2020-09-28') #yahoo = finance API. You can use any finance API of your choice!
+data = pdr.DataReader(company, data_source='yahoo', start='2012-01-01', end='2020-01-01') #yahoo = finance API. You can use any finance API of your choice!
 #There is a Traceback error with the DataReader which i couldn´t fix :/
 
 """
